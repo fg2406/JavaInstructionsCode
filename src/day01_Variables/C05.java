@@ -15,11 +15,7 @@ public class C05 {
 		System.out.println("sirali mi :"+getSiraliMi(sayilar));
 		
 		
-		
-		
-		
-
-	}
+		}
 
 	private static boolean getSiraliMi(int []sayilar) {
 		
